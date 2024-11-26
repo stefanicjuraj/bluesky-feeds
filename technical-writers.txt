@@ -1,0 +1,21 @@
+(technical (writing|writer(s)?|documentation|docs))|
+(tech (writing|writer(s)?|documentation|docs))|
+(documentation (writing|engineering))|
+(api (documentation|docs|reference|guide|manual))|
+(software (documentation|docs|reference|guide|manual))|
+(developer (documentation|docs|reference|guide|manual))|
+(product (documentation|docs|reference|guide|manual))|
+(openapi (documentation|docs|specification|reference|guide|manual))|
+(rest api (documentation|docs|reference|guide|manual))|
+(code (documentation|docs))|
+(docops)|
+(docs(-as)? code)|
+(markdown)|
+(readme)|
+(swagger)|
+(redocly)|
+(readthedocs)|
+(writethedocs)|
+(docusaurus)|
+(docusaurus (documentation|docs))|
+(writing (documentation|docs))
