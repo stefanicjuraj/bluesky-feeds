@@ -12,3 +12,5 @@ A collection of regex patterns engineered for creating custom Bluesky feeds.
 - plain text and markup languages
 
 [**Docusaurus**](https://bsky.app/profile/did:plc:rtcwhvjcrq7bpgegmbquacrq/feed/aaafnvytrwuxo)
+
+[**Deno**](https://bsky.app/profile/did:plc:rtcwhvjcrq7bpgegmbquacrq/feed/aaahs5zhxpoec)
