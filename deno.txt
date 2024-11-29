@@ -1,0 +1,3 @@
+\bdeno\b|
+\bdeno\.land\b|
+deno (documentation|docs)
