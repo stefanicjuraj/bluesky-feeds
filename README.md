@@ -10,3 +10,5 @@ A collection of regex patterns engineered for creating custom Bluesky feeds.
 - API reference and specification
 - documentation as code (docs-as-code) methodology
 - plain text and markup languages
+
+[**Docusaurus**](https://bsky.app/profile/did:plc:rtcwhvjcrq7bpgegmbquacrq/feed/aaafnvytrwuxo)
